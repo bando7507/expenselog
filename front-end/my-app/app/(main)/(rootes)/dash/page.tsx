@@ -314,7 +314,7 @@ const DashPageRef = () => {
                                 </div>
                               </div>
 
-                              <Button type="submit">LOG IN</Button>
+                              <Button type="submit">Confirm</Button>
                             </form>
                           </Form>
                         </div>
